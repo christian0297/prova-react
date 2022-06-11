@@ -1,0 +1,9 @@
+.tab, .title-products{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.category{
+    grid-column: span 2;
+    font-weight: 700;
+}
